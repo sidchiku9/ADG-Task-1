@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example App</string>
+    <string name="text_one">Task One!</string>
+    <string name="button1">Click to enable Button 2</string>
+    <string name="button2">Click to enable Button 1</string>
+    <string name="text2">Button 1</string>
+    <string name="text3">Button 2</string>
+
+</resources>
